@@ -5,7 +5,7 @@ published: true
 
 **Category: misc**
 **points : 30**
-Find my password from ([this recording](https://files.actf.co/66f84b04a2631daadc929b58386bb42a746ec51a4664c2eefde569ce3ece2164/recording.pcapng) :)
+Find my password from [this recording](https://files.actf.co/66f84b04a2631daadc929b58386bb42a746ec51a4664c2eefde569ce3ece2164/recording.pcapng) :)
 
 ### [](#header-3)Solution
 Downloading the file, we see that the extention is .pcapng. This gives us a clue that it is a wireshark recording.
